@@ -11,8 +11,8 @@
 ‎)
 ‎
 ‎# ─── Config ─────────────────────────────────────────────────────────────────
-‎TOKEN      = "YOUR_BOT_TOKEN_HERE"                   # @BotFather থেকে নাও
-‎BANNER_URL = "https://i.imgur.com/YOUR_IMAGE.jpg"    # তোমার photo URL দাও
+‎TOKEN      = "8707292149:AAFyO2jtCORHH8ElssC30jLgONvkQrlTLCo"                   # @BotFather থেকে নাও
+‎BANNER_URL = "https://files.catbox.moe/eux4xg.jpg"    # তোমার photo URL দাও
 ‎
 ‎# ─── Logging ─────────────────────────────────────────────────────────────────
 ‎logging.basicConfig(format="%(asctime)s - %(levelname)s - %(message)s", level=logging.INFO)

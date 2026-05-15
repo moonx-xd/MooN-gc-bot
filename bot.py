@@ -11,7 +11,7 @@
 ‎)
 ‎
 ‎# ─── Config ─────────────────────────────────────────────────────────────────
-‎TOKEN      = "8707292149:AAFyO2jtCORHH8ElssC30jLgONvkQrlTLCo"                   # @BotFather থেকে নাও
+‎TOKEN      = "8441600863:AAF1NqmbyC_cLjR8sCIMyV5LNkKmOgIVUqE"                   # @BotFather থেকে নাও
 ‎BANNER_URL = "https://files.catbox.moe/eux4xg.jpg"    # তোমার photo URL দাও
 ‎
 ‎# ─── Logging ─────────────────────────────────────────────────────────────────
@@ -71,10 +71,10 @@
 ‎        BotCommand("get",          "📂 Note check"),
 ‎        BotCommand("notes",        "📋 All notes check"),
 ‎        BotCommand("clear",        "🗑️ Note Remove"),
-‎        BotCommand("filter",       "🔍 Filter যোগ করো"),
+‎        BotCommand("filter",       "🔍 Filter add"),
 ‎        BotCommand("filters",      "📃 see all filters"),
 ‎        BotCommand("stop",         "❌ Filter remove"),
-‎        BotCommand("setwelcome",   "👋 Welcome message সেট করো"),
+‎        BotCommand("setwelcome",   "👋 Welcome message set"),
 ‎        BotCommand("welcome",      "💬 Welcome message check"),
 ‎        BotCommand("clearwelcome", "🗑️ Welcome remove"),
 ‎        BotCommand("lock",         "🔒 Content lock now"),
